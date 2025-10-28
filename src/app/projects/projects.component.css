@@ -1,0 +1,42 @@
+h2{
+    color: var(--navy),
+}
+
+.project
+{
+  background-size: contain;    
+  background-repeat: no-repeat;
+  border: 2px solid var(--olive);
+  border-radius: 10px;
+  width: 300px; 
+  height: 300px;
+}
+.project:hover
+{
+    border-color: var(--tealgreen);
+    box-shadow: 0 0 30px rgba(17, 113, 113, 0.5);
+}
+
+.item1
+{
+    background-image: url("/pj.jpg");
+    background-size: 100% 100%; 
+}
+.item2
+{
+    background-image: url("/zlogo.jpeg");
+    background-position: bottom;
+  
+}
+.item3
+{
+    background-image: url("/nett.png");
+    background-size: 90% 80%;  
+    background-position: bottom;
+}
+.item4
+{
+    background-image: url("/images.jpeg");
+    background-size: 100% 80%; 
+    background-position: bottom;
+}

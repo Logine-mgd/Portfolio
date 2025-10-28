@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+:root {
+  --redColor: #600D07;
+  --tealgreen: #0e4247;
+  --navy:#051f49;
+  --blueciel:#85A9CB;
+  --brun:#995C51;
+  --olive:#506256;
+}
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.bg-darkRed
+{
+    background-color: var(--redColor);
+}
+
+.bg-tealgreen
+{
+    background-color: var(--tealgreen);
+}
+
+.bg-blue
+{
+    background-color: var(--navy);
+}
+
+.bg-green
+{
+    background-color: var(--olive);
+}

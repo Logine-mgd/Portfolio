@@ -1,0 +1,26 @@
+
+.profimg{
+    background-size:cover; 
+    height: 600px;
+    background-image:url("/grad22.jpg");
+    background-position:50% 50%;
+   }
+.container{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}   
+.row{
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.txt{
+    background: transparent;
+    backdrop-filter: blur(30px);
+    border-radius: 20px;
+    padding: 40px;
+}
+.txt h1{
+    margin-bottom: 20px;
+}
