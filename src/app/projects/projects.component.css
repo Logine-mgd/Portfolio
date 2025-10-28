@@ -19,24 +19,24 @@ h2{
 
 .item1
 {
-    background-image: url("./pj.jpg");
+    background-image: url("/pj.jpg");
     background-size: 100% 100%; 
 }
 .item2
 {
-    background-image: url("./zlogo.jpeg");
+    background-image: url("/zlogo.jpeg");
     background-position: bottom;
   
 }
 .item3
 {
-    background-image: url("./nett.png");
+    background-image: url("/nett.png");
     background-size: 90% 80%;  
     background-position: bottom;
 }
 .item4
 {
-    background-image: url("./images.jpeg");
+    background-image: url("/images.jpeg");
     background-size: 100% 80%; 
     background-position: bottom;
 }
