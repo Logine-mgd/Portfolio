@@ -2,7 +2,7 @@
 .profimg{
     background-size:cover; 
     height: 600px;
-    background-image:url("grad22.jpg");
+    background-image:url("/grad22.jpg");
     background-position:50% 50%;
    }
 .container{
